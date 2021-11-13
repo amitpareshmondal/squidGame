@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.text{
+    font-weight:bolder;
+    position: fixed;
+    font-size: xx-large;
+    top: 40px;
+    left: 47%;
+    
+}
+.rule{
+    position: fixed;
+    font-size: 2rem;
+    font-weight: bolder;
+    left: 35%;
+}
